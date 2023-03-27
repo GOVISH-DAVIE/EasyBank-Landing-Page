@@ -116,7 +116,7 @@
     font-family: 'Public Sans', sans-serif;
     font-size: 18px;
     color: hsl(233, 8%, 62%);
-    border: red 2px solid;
+    /* border: red 2px solid; */
 }
 
 .reasonswhygrid {

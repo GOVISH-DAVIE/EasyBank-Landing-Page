@@ -38,14 +38,14 @@ const reasonsWhyItems = [
 
 export const ReasonsWhy = () => {
     return (
-        <section className="reasonsSection">
+        <section  className="reasonsSection">
              <div className="bg-header-mobile bg-custom-mobile-header-size absolute w-full h-full bg-no-repeat lg:hidden"></div>
-            <div className="content">
+            <div className="content" >
                 <div className="next-generation">
                     <h2>
                         Next generation digital banking
                     </h2>
-                    <p>Take your financial life online. Your Easybank account will be a one-stop-shop for spending, saving, budgeting, investing, and much more.</p>
+                    <p id="about"> Take your financial life online. Your Easybank account will be a one-stop-shop for spending, saving, budgeting, investing, and much more.</p>
                     <div className="request-invites">
                         <button id="request-invitebtn">Request Invite</button>
                     </div>
